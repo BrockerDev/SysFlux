@@ -42,7 +42,7 @@ chmod +x sysflux.py
 4. **Run SysFlux:**
 
 ```bash
-./sysflux.py
+python3 ./sysflux.py
 ```
 
 ## 🎮 Usage
